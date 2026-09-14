@@ -1,8 +1,15 @@
 # Hi, I'm Melam 👋
 
-I'm a software engineering student interested in **natural language processing, LLM evaluation, and human-centered AI products**.
+**Tan Meilin (谭美琳)** · BUPT Software Engineering · Year 2
+
+I'm interested in **natural language processing, LLM evaluation, and human-centered AI products**.
 
 我目前关注大语言模型的可靠性与评测，也喜欢把想法做成真正可用的产品。
+
+## Background
+
+- Stanford CS224N: Natural Language Processing with Deep Learning — completed, Summer 2026
+- Current research interests: robust NLP evaluation, LLM attribution, and domain generalization
 
 ## Featured work
 
