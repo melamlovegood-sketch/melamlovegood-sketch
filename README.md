@@ -1,6 +1,6 @@
 # Hi, I'm Melam 👋
 
-**Tan Meilin (谭美琳)** · BUPT Software Engineering · Year 2
+BUPT Software Engineering · Year 2
 
 I'm interested in **natural language processing, LLM evaluation, and human-centered AI products**.
 
